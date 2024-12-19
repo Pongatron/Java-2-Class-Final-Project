@@ -1,0 +1,8 @@
+Duck, Scrooge, 121-23-1231, scrooge, Sc100Hello!, 109117, Platinum, 3000, 1500
+The Builder, Bob, 678-11-2222, bobby, Built500!, 109037, Rewards, 7000, 105, 2800
+The Sailor Man, Popeye, 999-88-7777, sailor, Boat198?, 109099, Free, 6000
+The Sailor Man, Popeye, 999-88-7777, sailor, Boat198?, 109099, Free, 2000, 0.08, TenThousand
+The Builder, Bob, 678-11-2222, bobby, Built500!, 109039, Platinum, 2000, 3, 85, 0.5, 200
+The Builder, Bob, 678-11-2222, bobby, Built500!, 109037, Rewards, 7000, 0.03, 105, 6, 2800
+The Builder, Bob, 678-11-2222, bobby, Built500!, 109037, Rewards, -7000, 0.03, 105, 0.06, 2800
+The Builder, Bob, 678-11-2222, bobby, Built500!, 109037, Rewards, 7000, 0.03, 105, 0.06, -2800

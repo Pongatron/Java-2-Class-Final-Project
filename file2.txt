@@ -1,0 +1,5 @@
+Mouse, Mickey, 123-45-6789, mmouse, MiMo200!, 109022, Platinum, 3000, 0.03, 65, 0.3, 1500
+The Builder, Bob, 678-11-2222, bobby, Built500!, 109037, Rewards, 7000, 0.03, 105, 0.6, 2800
+The Builder, Bob, 678-11-2222, bobby, Built500!, 109039, Platinum, 2000, 0.03, 85, 0.5, 200
+The Sailor Man, Popeye, 999-88-7777, sailor, Boat198?, 109099, Free, 2000, 0.06, 1800
+Duck, Donald, 345-92-2345, dduck, Duc15!!9, 109113, Rewards, 2000, 0.04, 70, 0.25, 600

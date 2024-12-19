@@ -1,0 +1,4 @@
+Mouse, Mickey, 123-45-6789, mmouse, MiMo200!, 109001, Free, 2000, 0.05, 1100
+Mouse, Mickey, 123-45-6789, mmouse, MiMo200!, 109003, Rewards, 1000, 0.02, 85, 0.6, 800
+Mouse, Minnie, 555-66-7777, niceMouse, LaMo20K?, 109004, Free, 3000, 0.04, 800
+Mouse, Minnie, 555-66-7777, niceMouse, LaMo20K?, 109009, Platinum, 2000, 0.02, 70, 0.4, 800
